@@ -1,5 +1,17 @@
 # @primer/css
 
+## 17.0.0
+
+### Major Changes
+
+- [#1339](https://github.com/primer/css/pull/1339) [`0ca2648e`](https://github.com/primer/css/commit/0ca2648e5982f0d21137a556e083d77af33eee36) Thanks [@jonrohan](https://github.com/jonrohan)! - Changeset change supported browsers.
+
+* [#1352](https://github.com/primer/css/pull/1352) [`b4950e39`](https://github.com/primer/css/commit/b4950e395867b558e63b5bb4d46d93f75f35e38e) Thanks [@tobiasahlin](https://github.com/tobiasahlin)! - Update marketing button styles
+
+### Patch Changes
+
+- [#1350](https://github.com/primer/css/pull/1350) [`2dbc6143`](https://github.com/primer/css/commit/2dbc6143a66b56b29e12d5ae3e7afeaed95373ab) Thanks [@simurai](https://github.com/simurai)! - Bump @primer/primitives
+
 ## 16.3.0
 
 ### Minor Changes
